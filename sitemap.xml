@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://example.com/movies/index.html</loc>
     
-    <lastmod>2024-09-03</lastmod>
+    <lastmod>2024-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/music/index.html</loc>
+    
+    <lastmod>2024-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/About/index.html</loc>
+    
+    <lastmod>2024-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/List/index.html</loc>
+    
+    <lastmod>2024-09-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +39,15 @@
   
   <url>
     <loc>http://example.com/link/index.html</loc>
+    
+    <lastmod>2024-09-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2024-09-03</lastmod>
     
@@ -58,7 +94,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-09-04</lastmod>
+    <lastmod>2024-09-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,21 +102,21 @@
   
   <url>
     <loc>http://example.com/tags/java/</loc>
-    <lastmod>2024-09-04</lastmod>
+    <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/java8/</loc>
-    <lastmod>2024-09-04</lastmod>
+    <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2024-09-04</lastmod>
+    <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -89,7 +125,7 @@
   
   <url>
     <loc>http://example.com/categories/java/</loc>
-    <lastmod>2024-09-04</lastmod>
+    <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
